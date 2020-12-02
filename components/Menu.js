@@ -9,6 +9,14 @@ let menuItems = [
   'Log Out'
 ];
 
+const menuComponent = document.query
+
+function menuMaker(item) {
+  let menu = document.createElement('div')
+}
+
+
+
 /* 
   Step 1: Write a component called 'menuMaker' to create a menu like the markup below:
 
